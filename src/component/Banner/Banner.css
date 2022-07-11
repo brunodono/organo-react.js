@@ -1,0 +1,10 @@
+.banner {
+    background-color:#6278F7 ;
+    text-align: center;
+
+}
+/*faze lo responsivo*/
+
+.banner img {
+    max-width: 100%;
+}
